@@ -1,0 +1,1 @@
+This is a Python program that asks students for the number of labs and subjects along with their respective grades and credits, and then calculates the SGPA. I created it because my university’s website shows ads while calculating SGPA.
